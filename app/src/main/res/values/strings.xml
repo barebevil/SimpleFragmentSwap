@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Fragment Swap</string>
+    <string name="text_frag1">Displaying fragment 1</string>
+    <string name="text_frag2">Displaying fragment 2</string>
+    <string name="text_frag3">Displaying fragment 3</string>
+    <string name="button_frag1">Fragment 1</string>
+    <string name="button_frag2">Fragment 2</string>
+    <string name="button_frag3">Fragment 3</string>
+</resources>
